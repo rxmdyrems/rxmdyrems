@@ -1,72 +1,69 @@
 <div align="center">
 
-# Remy Camiguel
+# Remy Camiguel 🔥
 
 ### Computer Programming / BSIT graduate · Cebu-based web developer
 
-I build practical web experiences with a strong foundation in the fundamentals — then use modern tools, including AI-assisted development, to move from idea to working software faster.
+I like making the web feel a little clearer, more useful, and easier to use.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-remy--camiguel--portfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://remy-camiguel-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/remy-camiguel-5638b8171)
-[![Email](https://img.shields.io/badge/Email-Say_hello-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rccamiguel.mcc@gmail.com)
+[![Personal website](https://img.shields.io/badge/Personal_website-Visit_my_site-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://remy-camiguel-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Say_hello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/remy-camiguel-5638b8171)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rccamiguel.mcc@gmail.com)
 
 </div>
 
 <p align="center">
-  <img src="./assets/tanjiro.gif" width="190" alt="Tanjiro Kamado in a subtle animated loop" />
+  <img src="./assets/tanjiro.gif" width="420" alt="Tanjiro Kamado animated GIF" />
 </p>
 
-> **Curiosity first. Fundamentals always.**
+<p align="center"><sub><a href="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTZldW9vamc2bnl4dHYwM25udnA1MWs5dmVvNDR1eTNveGdsZjNrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/85Rsgy2UxfNu6Hnmp5/giphy.gif">GIF source</a></sub></p>
 
-## About me
+## A little about me
 
-I’m a **BSIT / Computer Programming graduate** based in Cebu, Philippines. My path into web development has been deliberately broad: I started with **freelancing and ESL teaching**, moved through **customer service and call-center work**, and kept building toward the kind of work I wanted to do every day — designing, debugging, and shipping useful digital experiences.
+I’m Remy, a **BSIT / Computer Programming graduate** from Cebu, Philippines. My route into web development has not been a straight line. I’ve worked through **freelancing, ESL teaching, and customer service / call-center work** while continuing to learn, build, and move closer to the work I enjoy most.
 
-That background shapes how I work. I care about clear communication, reliable interfaces, and understanding the system underneath the abstraction. AI-assisted development is part of my toolkit, but it supports — rather than replaces — my knowledge of HTML, CSS, JavaScript, PHP, SQL, data flow, and problem-solving fundamentals.
+Today, I focus on building practical web experiences and improving the details that make them feel good to use. I use AI-assisted tools when they help me work faster, but I still care about understanding the fundamentals: how the browser works, how data moves, why a query behaves the way it does, and how to fix things properly.
 
-## What I work with
+## Skills and tools
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
-I’m especially interested in the space where **clean frontend work, structured data, responsive design, and thoughtful automation** meet. I’m comfortable learning a new tool, but I want to understand the decisions and fundamentals behind it.
+**I enjoy:** responsive interfaces · accessible UI · structured data · SQL · debugging · clear documentation · learning by building
 
-## Selected work
+## A few things I’ve made
 
-### [VivaScreen — movie discovery practice project](https://remy-camiguel-portfolio.vercel.app/project/vivascreen)
+### [VivaScreen](https://remy-camiguel-portfolio.vercel.app/project/vivascreen)
 
-A movie-streaming website built as a side practice project focused on browsing, discovery, and responsive presentation. It is an example of how I use familiar technologies to sharpen product thinking and interface details.
+A movie-streaming website built as a practice project for browsing, discovery, and responsive UI work.
 
-**HTML · CSS · JavaScript · responsive UI**
+`HTML` `CSS` `JavaScript`
 
-### [Personal portfolio and CMS](https://remy-camiguel-portfolio.vercel.app)
+### [My personal website](https://remy-camiguel-portfolio.vercel.app)
 
-My portfolio is also a working system: a public site backed by an admin studio, structured content, Supabase data, contact messages, and a public chatroom. I use it to practice the full loop from UI to database to deployment.
+A portfolio and small CMS with structured content, Supabase data, contact messages, a public chatroom, and an admin studio. It gives me a place to keep learning through a real, working project.
 
-**React · TypeScript · Supabase · PostgreSQL · Vercel**
+`React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
 
 ### School Guidance System
 
-A project direction centered on organizing student guidance workflows and making information easier to manage and access. It reflects my interest in practical software that helps people complete real tasks with less friction.
-
-## Currently building
-
-- Improving my portfolio’s content system, accessibility, and mobile reliability.
-- Building small projects that strengthen my frontend, backend, and SQL fundamentals.
-- Practicing better data flow: **UI → API → database → validation → readable feedback**.
-- Exploring responsible AI-assisted development while keeping code understandable and maintainable.
-- Turning more experiments into small, finished projects instead of leaving them as ideas.
+A project focused on making student guidance information and workflows easier to organize and use.
 
 ## GitHub activity
 
@@ -87,16 +84,16 @@ A project direction centered on organizing student guidance workflows and making
 
 </div>
 
-## Let’s connect
+## Say hello
 
-If you’re interested in a junior web development opportunity, a thoughtful collaboration, or simply want to talk about building for the web, I’d be glad to hear from you.
+I’m always happy to connect with people who enjoy learning, building, and making useful things for the web.
 
-- **Portfolio:** [remy-camiguel-portfolio.vercel.app](https://remy-camiguel-portfolio.vercel.app)
+- **Website:** [remy-camiguel-portfolio.vercel.app](https://remy-camiguel-portfolio.vercel.app)
 - **LinkedIn:** [linkedin.com/in/remy-camiguel-5638b8171](https://ph.linkedin.com/in/remy-camiguel-5638b8171)
 - **Email:** [rccamiguel.mcc@gmail.com](mailto:rccamiguel.mcc@gmail.com)
 
 <div align="center">
 
-_Thanks for stopping by — keep learning, keep building, keep improving._
+_Thanks for visiting._
 
 </div>
