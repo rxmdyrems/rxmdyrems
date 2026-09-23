@@ -146,6 +146,14 @@ A school-focused application designed to help organize student guidance informat
 `Web Development` `Database Design` `Information Management`
 
 ---
+### 💬 iSturya
+<a href="https://isturya.vercel.app">
+
+iStuya is built around the idea that not every interaction needs to become a permanent record. Here is what happens to the small amount of temporary data needed to connect you.
+
+
+
+---
 
 <h2 align="center">🧠 What I Enjoy</h2>
 
