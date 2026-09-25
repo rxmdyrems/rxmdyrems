@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Remy! <img src="https://media.giphy.com/media/hvRJCLFzcasr4ia7z/giphy.gif" width="28" alt="Animated checkmark" />
+# Hey, I'm Remy! <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTI2NDFyeXAwdHEzNDQzcHFzMThsZTFvYWFncXNuZms1eWJyNHRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" />
 
 ### BSIT / Computer Programming Graduate · Web Developer · Cebu, Philippines
 
