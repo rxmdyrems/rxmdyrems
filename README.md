@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Remy! <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTI2NDFyeXAwdHEzNDQzcHFzMThsZTFvYWFncXNuZms1eWJyNHRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" />
+# Hey, I'm Remy! <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTI2NDFyeXAwdHEzNDQzcHFzMThsZTFvYWFncXNuZms1eWJyNHRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="40" height="40" style="vertical-align: middle" />
 
 ### BSIT / Computer Programming Graduate · Web Developer · Cebu, Philippines
 
